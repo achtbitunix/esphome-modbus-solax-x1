@@ -1,10 +1,7 @@
 # esphome-modbus-solax-x1
 
-![GitHub actions](https://github.com/syssi/esphome-modbus-solax-x1/actions/workflows/ci.yaml/badge.svg)
-![GitHub stars](https://img.shields.io/github/stars/syssi/esphome-modbus-solax-x1)
-![GitHub forks](https://img.shields.io/github/forks/syssi/esphome-modbus-solax-x1)
-![GitHub watchers](https://img.shields.io/github/watchers/syssi/esphome-modbus-solax-x1)
-[!["Buy Me A Coffee"](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/syssi)
+## This is a fork from https://github.com/syssi/esphome-modbus-solax-x1/
+
 
 ESPHome component to monitor a Solax X1 mini via RS485.
 
